@@ -1,0 +1,16 @@
+* {
+    font-family: "Playwrite NG Modern", cursive;
+    font-weight:bolder;
+}
+
+.main{
+   margin-top: 10%;
+    color:rgb(19, 19, 19);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+div h1{
+    font-size: 100px;
+}
